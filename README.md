@@ -45,8 +45,9 @@ const developer = {
     name: 'I Gede Ary Wiguna',
     handle: '@coklarr26',
     role: 'Front-End Developer & RPL Student 🎓',
-    location: 'Indonesia 🇮🇩',
-    code: ['HTML5', 'CSS3', 'JavaScript', 'Vue.js', 'React', 'Tailwind CSS', 'Laravel'],
-    architecture: ['Responsive Web Design', 'SPA', 'Interactive UI/UX'],
+    location: 'Bali, Indonesia 🇮🇩',
+    languages: ['JavaScript', 'TypeScript', 'PHP', 'Python', 'HTML5', 'CSS3', 'SQL'],
+    frameworks: ['Vue.js', 'React.js', 'Next.js', 'Laravel', 'Tailwind CSS', 'Bootstrap'],
+    tools: ['Git', 'GitHub', 'Figma', 'VS Code', 'Postman', 'Vite', 'NPM'],
     currentGoal: 'Building top-tier web applications with seamless user experiences ⚡'
 };
