@@ -14,9 +14,6 @@
     </a>
   </p>
 
-  <!-- Pacman / Pixel Game Retro Divider -->
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pacman.gif" width="300" alt="Pacman Game Animation" />
-
 </div>
 
 ---
@@ -71,6 +68,14 @@ I enjoy building small projects to improve my skills, such as personal websites,
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
+
+---
+
+# 🐍 Contribution Snake Game:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/coklarr26/coklarr26/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
