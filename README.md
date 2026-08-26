@@ -15,30 +15,16 @@
     <a href="https://github.com/coklarr26">
       <img src="https://komarev.com/ghpvc/?username=coklarr26&label=%F0%9F%91%80%20PROFILE%20VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Focus-Front--End%20Development-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Learn%20%26%20Build-00c853?style=for-the-badge&logo=statuspage&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+# 💫 About Me:
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Hi, my name is <b>I Gede Ary Wiguna</b> (<code>@coklarr26</code>), and I am currently a student in <b>Software Engineering (RPL)</b>.</p>
-      <p>I am passionate about <b>Front-End Development</b> and love creating websites that are responsive, interactive, and user-friendly.</p>
-      <br/>
-      <p>🚀 <b>Projects:</b> I enjoy building small projects to improve my skills, such as personal websites, landing pages, and interactive web components. Each project helps me learn new techniques and best practices in web development.</p>
-      <p>📚 <b>Currently Learning:</b> Advanced JavaScript frameworks like React, Web accessibility, responsive design, and version control best practices.</p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUwnD5xNWVqGnpmG/giphy.gif" width="100%" style="border-radius: 16px;" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+Hi, my name is **I Gede Ary Wiguna** (`@coklarr26`), and I am currently a student in **Software Engineering (RPL)**.  
+I am passionate about **Front-End Development** and love creating websites that are responsive, interactive, and user-friendly.
 
 ```javascript
 const developer = {
@@ -46,8 +32,7 @@ const developer = {
     handle: '@coklarr26',
     role: 'Front-End Developer & RPL Student 🎓',
     location: 'Bali, Indonesia 🇮🇩',
-    languages: ['JavaScript', 'TypeScript', 'PHP', 'Python', 'HTML5', 'CSS3', 'SQL'],
-    frameworks: ['Vue.js', 'React.js', 'Next.js', 'Laravel', 'Tailwind CSS', 'Bootstrap'],
-    tools: ['Git', 'GitHub', 'Figma', 'VS Code', 'Postman', 'Vite', 'NPM'],
+    code: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'PHP', 'Laravel', 'Vue.js', 'React', 'Tailwind CSS'],
+    architecture: ['Responsive Web Design', 'SPA', 'Interactive UI/UX'],
     currentGoal: 'Building top-tier web applications with seamless user experiences ⚡'
 };
