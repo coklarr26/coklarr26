@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://github.com/arywiguna2">
-      <img src="https://komarev.com/ghpvc/?username=arywiguna2&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=github" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=coklarr2&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=github" alt="Profile Views" />
     </a>
   </p>
 
@@ -73,8 +73,8 @@ I enjoy building small projects to improve my skills, such as personal websites,
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arywiguna2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Ary Wiguna's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arywiguna2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coklarr26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" alt="Ary Wiguna's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coklarr26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" height="165" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
